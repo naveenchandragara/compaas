@@ -1,0 +1,1 @@
+This is a simple Django API that checks if an input string contains any characters that could be used to perform SQL injection. It returns a JSON object indicating whether the input is sanitized or unsanitized.
